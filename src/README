@@ -1,0 +1,21 @@
+# Fawry E-Commerce Challenge
+
+## 🛍️ Features
+- Add products with expiry and shipping details
+- Add items to cart with quantity check
+- Checkout with:
+  - Subtotal
+  - Shipping cost (30 EGP per kg)
+  - Final amount
+  - Current customer balance
+- Shipping items are printed by quantity and total weight
+
+## ✅ How to Run
+1. Compile and run `Main.java`
+2. Example output is printed to console
+
+## 🧪 Test Cases
+- Cheese (shippable + expirable)
+- TV (shippable only)
+- Scratch Card (non-shippable)
+- Cart checkout with multiple products
